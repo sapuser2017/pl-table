@@ -17,6 +17,8 @@
 
 > author: pengLei （如有问题请加QQ：403802162）欢迎Star
 
+> 加入pl-table交流群吧 ： 675286117
+
 [点击查看pl-table在线demo](https://livelypeng.github.io/pl-table/pl-dist/index.html)
 
 # 安装方式 and 引入方式
