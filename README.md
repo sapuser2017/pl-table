@@ -16,7 +16,7 @@
 > 注： 2.3.6 需要配置（需要配置的实例，请看底部）   2.4.6及以上不需要配置，目前来说这2.3.6和2.4.6及以上的版本是稳定版本
 
 > author: pengLei （如有问题请加入pl-table交流群吧： 675286117）欢迎Star
-
+> 扫码加群： ![image](https://livelypeng.github.io/pl-table/assets/plTableCode.png)
 
 [点击查看pl-table在线demo](https://livelypeng.github.io/pl-table/pl-dist/index.html)
 
